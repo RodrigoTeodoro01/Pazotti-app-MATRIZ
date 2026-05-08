@@ -3,7 +3,7 @@ import * as XLSX from 'xlsx';
 import { Download, PlusCircle, Trash2, FileSpreadsheet, LogIn, LogOut, CloudSync, User, Users as UsersIcon, LayoutPanelLeft, Settings as SettingsIcon, RefreshCw, CheckCircle2, XCircle, LayoutDashboard, TrendingUp, BarChart3, PieChart as PieChartIcon, Briefcase } from 'lucide-react';
 
 const SUPERVISORES = [
-  "EMERSON", "FABIO FIRMINO", "JOSE AMOS", "MAICON", "SAMUEL", "THIAGO", "GERAL"
+  "DANIELA MARTINS", "EMERSON", "FABIO FIRMINO", "JOSE AMOS", "MAICON", "SAMUEL", "THIAGO", "GERAL"
 ];
 
 const INDUSTRIES = [
