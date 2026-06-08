@@ -41,7 +41,7 @@ function App() {
   });
 
   const [cloudUrl, setCloudUrl] = useState(() => {
-    const NEW_URL = 'https://script.google.com/macros/s/AKfycbwfIi6yPtao742yOHPL0zJiL2751l7GSNc3W9Y5YRvecyh-w8hVh3Gd55xYXBwZ5pgN/exec';
+    const NEW_URL = 'https://script.google.com/macros/s/AKfycbx3g2TA1iSIEeRN9k75YW_XFLfMtV1hveNSfgNfSob-_vJIkQhm2QsaEGLhWxRPKBNr/exec';
     const saved = localStorage.getItem('matriz_cloud_url');
     
     // FORCED SYNC: If saved URL is different from NEW_URL, we override it to fix the user's sync issue
