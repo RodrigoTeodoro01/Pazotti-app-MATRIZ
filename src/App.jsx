@@ -3,13 +3,13 @@ import * as XLSX from 'xlsx';
 import { Download, PlusCircle, Trash2, FileSpreadsheet, LogIn, LogOut, CloudSync, User, Users as UsersIcon, LayoutPanelLeft, Settings as SettingsIcon, RefreshCw, CheckCircle2, XCircle, LayoutDashboard, TrendingUp, BarChart3, PieChart as PieChartIcon, Briefcase } from 'lucide-react';
 
 const SUPERVISORES = [
-  "DANIELA MARTINS", "EMERSON", "FABIO FIRMINO", "JOSE AMOS", "MAICON", "SAMUEL", "THIAGO", "GERAL"
+  "ANDRE DINIZ", "EMERSON", "FABIO FIRMINO", "JOSE AMOS", "MAICON", "SAMUEL", "THIAGO", "GERAL"
 ];
 
 const INDUSTRIES = [
-  "AJIN. MID", "AJINO.FOOD", "AJINOMOTO", "AVANT", "BARION", "BEAUTYCOLO",
+  "AJIN. MID", "AJINO.FOOD", "AJINOMOTO", "AVANT", "BARION", "BRACELL",
   "BETTANIN", "BOLD SNACK", "CAFE PELE", "CAMIL", "CAMPOLARGO", "CASA SUICA",
-  "CHEP", "COLGATE", "COQUEIRO", "DR.OETKER", "FER.PASCOA", "FERRERO",
+  "DUCOCO", "BARUEL", "COQUEIRO", "DR.OETKER", "FER.PASCOA", "FERRERO",
   "FINI", "FINI GERAL", "FORNOMINAS", "GLOBALBEV", "HERS CAMP", "HERSHEYS",
   "INGLEZA", "JDE CAFES", "JDE CAMP", "KERO-COCO", "LINEA", "LUXCAR",
   "MABEL", "MAGAZINE", "MAGUARY", "MARILAN", "MARILAN SK", "MASSAS CAM",
